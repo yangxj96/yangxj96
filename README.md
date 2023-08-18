@@ -85,13 +85,3 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij idea" width="40" height="40" />
     </a>
 </div>
-
-### 📈 Github Statistics
-
-<div align="center">
-    <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=yangxj96&count_private=true&show_icons=true" />
-    <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangxj96&layout=compact&langs_count=8" />
-    <span>&emsp;&emsp;</span>
-</div>
