@@ -12,7 +12,7 @@
     <a title="My Blog Site" target="_blank" href="https://blog.csdn.net/qq_37274323">
         <img alt="My Blog Site" src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-CSDN-orange" />
     </a>
-    <a title="My Blog Site" target="_blank" href="https://www.yangxj96.com/">
+    <a title="My Blog Site" target="_blank" href="https://blog.devops00.com/">
         <img alt="My Blog Site" src="https://img.shields.io/badge/Yangxj96-Blog-orange" />
     </a>
 </div>
